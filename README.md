@@ -7,7 +7,10 @@ Put this in titles
 
 and try to send a picture from the album
 
-or go to profile sosial media
+or go to 
+profile -user settings - settings sosial media
+perfil - ajustes de usuario - austes de publicasiones en redes sociales
+
 
 
 
