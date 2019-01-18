@@ -11,6 +11,7 @@ or go to
 profile -user settings - settings sosial media
 perfil - ajustes de usuario - austes de publicasiones en redes sociales
 
+![alt text](enter.jpg)
 
 
 
