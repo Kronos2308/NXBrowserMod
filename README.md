@@ -21,6 +21,6 @@ perfil - ajustes de usuario - austes de publicasiones en redes sociales
 
  * video playback
  
- * save cokies
+ * save logins and pass
  
 **Credits:**
