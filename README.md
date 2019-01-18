@@ -26,3 +26,4 @@ perfil - ajustes de usuario - austes de publicasiones en redes sociales
  * save logins and pass
  
 **Credits:**
+Migush for the original idea
