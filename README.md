@@ -15,7 +15,7 @@ perfil - ajustes de usuario - austes de publicasiones en redes sociales
 
 ![alt text](enter.jpg)
 
-
+* A nintendo account is required
 
 **Features:**
 
