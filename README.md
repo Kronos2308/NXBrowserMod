@@ -13,8 +13,10 @@ or go to profile sosial media
 
 **Features:**
 
- * Go to facebook from the album or de user profile
+ * Go to internet from the album or de user profile
 
+ * video playback
+ 
+ * save cokies
  
 **Credits:**
- 
