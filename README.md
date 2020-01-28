@@ -1,11 +1,11 @@
 # NXBrowserMod
 
 Put this in titles
-/atmosphre/tiles/
+/atmosphre/contents/
 
-/reiNX/tiles/
+/sxos/tiles/
 
-and try to send a picture from the album
+And try to send a picture from the album
 
 or go to
 
