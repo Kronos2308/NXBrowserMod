@@ -27,4 +27,4 @@ perfil - ajustes de usuario - austes de publicasiones en redes sociales
  
 **Credits:**
 
-Migush for the original idea
+Migush for the [original idea](https://github.com/Migushthe2nd/eBrowserMod)
