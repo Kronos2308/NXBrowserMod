@@ -1,28 +1,39 @@
 # NXBrowserMod
 
-Put this in titles
+Put this in:
+
 /atmosphre/contents/
+
+or
 
 /sxos/tiles/
 
-And try to send a picture from the album
+use the 90Dns
+
+```
+163.172.141.219
+```
+```
+207.246.121.77
+```
+
+And try to send a picture from the album With 
 
 or go to
 
-profile -user settings - settings sosial media
+profile -> user settings -> settings sosial media
 
-perfil - ajustes de usuario - austes de publicasiones en redes sociales
+perfil -> ajustes de usuario -> ajustes de publicasiones en redes sociales
 
 ![alt text](enter.jpg)
 
-* A nintendo account is required
+* A nintendo [account](https://github.com/StarDustCFW/StarDust-Toolkit/releases/latest) is required 
 
 **Features:**
 
- * Go to internet from the album or de user profile
-
+ * Go to internet Explorer from the album or de user profile
+ * Confortable interface
  * video playback
- 
  * save logins and pass
  
 **Credits:**
