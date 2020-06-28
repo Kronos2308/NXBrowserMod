@@ -1,5 +1,7 @@
 # NXBrowserMod
 
+on 10.x.x is not working
+
 Put this in:
 
 /atmosphre/contents/
